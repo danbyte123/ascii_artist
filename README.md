@@ -22,8 +22,8 @@ A simple, **Linux-based terminal tool** to generate ASCII art from text or image
        ```bash
        pip install -r requirements.txt
        ```
-         
-      3. **Run the Tool :**:
+
+ 3. Run the Tool :
        ```bash
        python3 Tool.py
        ```

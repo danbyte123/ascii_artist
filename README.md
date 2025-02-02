@@ -14,3 +14,18 @@ A simple terminal-based tool to generate ASCII art from text or images. You can 
    ```bash
    git clone https://github.com/yourusername/ascii-art-generator.git
    cd ascii-art-generator
+    ```
+   2. **install requirements**:
+ ```bash
+pip install -r requirements.txt
+ ```
+ 3. **run the tool**:
+ 4.  ```bash
+     python3 Tool.py
+
+
+
+
+       
+   
+   

@@ -12,7 +12,7 @@ A simple terminal-based tool to generate ASCII art from text or images. You can 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ascii-art-generator.git
+   git clone https://github.com/danbyte123/ascii_artist.git
    cd ascii-art-generator
     ```
    2. **install requirements**:

@@ -17,12 +17,11 @@ A simple terminal-based tool to generate ASCII art from text or images. You can 
     ```
    2. **install requirements**:
  ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
  ```
  3. **run the tool**:
- 4.  ```bash
-     python3 Tool.py
-
+   ```bash
+    python3 Tool.py
 
 
 
